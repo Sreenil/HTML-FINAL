@@ -1,0 +1,62 @@
+.navbar
+{
+    padding: 15px;
+}
+.header
+{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins';
+
+    .header-left
+    {
+        display: flex;
+        gap: $spacer-5;
+        align-items: center;
+    }
+
+    .header-right
+    {
+        display: flex;
+        gap: $spacer-3;
+        align-items: center;
+    }
+
+    .call
+    {
+        height: 29px;
+        width: $spacer-7;
+        top: 5px;
+        left: 1249px;
+        border: 1px;
+    }
+
+    .navbar-left
+    {
+        width: $spacer-6;
+        height: 27.29px;
+        margin-left: 51px;
+    }
+}
+
+.navbar-two
+{
+    display: flex;
+    justify-content: space-between;
+
+    .navbar-right
+    {
+        display: flex;
+        gap: 45px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        color: $color-3;
+
+        @include mobile
+        {
+            width: 50%;
+            flex-direction: column;
+        }
+    }
+}
