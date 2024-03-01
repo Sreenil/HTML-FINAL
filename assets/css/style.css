@@ -5,6 +5,172 @@
   border: 0;
   font-family: "Poppins", sans-serif; }
 
+.banner__image {
+  width: 100%;
+  height: 300px;
+  top: 90px;
+  background-image: url("../../../assets/images/Rectangle.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 50px; }
+  .banner__image p {
+    width: 50%; }
+
+.training {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px; }
+  .training__1 {
+    width: 175px;
+    height: 204px; }
+    .training__1__top {
+      display: flex;
+      justify-content: space-between;
+      align-items: end; }
+      .training__1__top img {
+        width: 46.68px;
+        height: 36.77px; }
+      .training__1__top div {
+        width: 60px;
+        height: 10px;
+        border-top: 2px dashed #88adc8; }
+    .training__1 h1 {
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      margin: 10px auto; }
+    .training__1 p {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px; }
+  .training__2 {
+    width: 175px;
+    height: 204px; }
+    .training__2__top {
+      display: flex;
+      justify-content: space-between;
+      align-items: end; }
+      .training__2__top img {
+        width: 46.68px;
+        height: 36.77px; }
+      .training__2__top div {
+        width: 60px;
+        height: 10px;
+        border-top: 2px dashed #88adc8; }
+    .training__2 h1 {
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      margin: 10px auto; }
+    .training__2 p {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px; }
+  .training__3 {
+    width: 175px;
+    height: 204px; }
+    .training__3__top {
+      display: flex;
+      justify-content: space-between;
+      align-items: end; }
+      .training__3__top img {
+        width: 46.68px;
+        height: 36.77px; }
+      .training__3__top div {
+        width: 60px;
+        height: 10px;
+        border-top: 2px dashed #88adc8; }
+    .training__3 h1 {
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      margin: 10px auto; }
+    .training__3 p {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px; }
+  .training__4 {
+    width: 175px;
+    height: 204px; }
+    .training__4__top {
+      display: flex;
+      justify-content: space-between;
+      align-items: end; }
+      .training__4__top img {
+        width: 46.68px;
+        height: 36.77px; }
+      .training__4__top div {
+        width: 60px;
+        height: 10px;
+        border-top: 2px dashed #88adc8; }
+    .training__4 h1 {
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      margin: 10px auto; }
+    .training__4 p {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px; }
+  .training__5 {
+    width: 175px;
+    height: 204px; }
+    .training__5__top {
+      display: flex;
+      justify-content: space-between;
+      align-items: end; }
+      .training__5__top img {
+        width: 46.68px;
+        height: 36.77px; }
+      .training__5__top div {
+        width: 60px;
+        height: 10px;
+        border-top: 2px dashed #88adc8; }
+    .training__5 h1 {
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      margin: 10px auto; }
+    .training__5 p {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px; }
+  .training__6 {
+    height: 341px;
+    width: 198px;
+    display: flex;
+    align-items: end;
+    position: relative;
+    padding-bottom: 40px; }
+    .training__6__image {
+      position: absolute;
+      top: -20px;
+      left: 15px; }
+    .training__6__text {
+      height: 244px;
+      width: 198px;
+      background-color: #2B98F7;
+      text-align: center;
+      padding-top: 70px; }
+      .training__6__text img {
+        width: 36px;
+        height: 32px; }
+      .training__6__text h3 {
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 33px;
+        color: #ffffff; }
+      .training__6__text p {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #ffffff; }
+
 .navbar {
   padding: 15px; }
 
